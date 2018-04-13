@@ -11,9 +11,6 @@ import java.io.UnsupportedEncodingException;
 import java.util.Iterator;
 import java.util.Set;
 
-/**
- * Created by 170066 on 2018/4/11.
- */
 public class MyCrawler extends WebCrawler {
 
     private CrawlStat crawlStat;

@@ -13,9 +13,6 @@ import java.util.List;
 import java.util.Set;
 import java.util.regex.Pattern;
 
-/**
- * Created by 170066 on 2018/4/12.
- */
 public class ParseZiRoom {
 
     private final static String CSV_PATH = "/data/crawl/data.csv";
